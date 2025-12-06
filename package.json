@@ -10,6 +10,7 @@
     "db:init": "tsx scripts/init-db.ts"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.0.2",
     "@vercel/postgres": "^0.10.0",
     "bcryptjs": "^3.0.3",
     "date-fns": "^4.1.0",
